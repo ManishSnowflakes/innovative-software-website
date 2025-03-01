@@ -13,6 +13,8 @@ A minimalistic pleasing **frontend website** for **Innovative Software Solutions
 - **CSS** - Styling and animations  
 - **JavaScript** - Interactive elements  
 
+## 📸 Preview
+https://manishsnowflakes.github.io/innovative-software-website/
 
 ## 🚀 Installation  
 1. Clone the repository:  
